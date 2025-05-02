@@ -18,4 +18,10 @@ We plan to prove and perfect our inference-time learning methodology in multiple
 - Robotic adaptability, reasoning, and problem solving.
 - ...and many other problem domains that need to capture human nature by learning and interacting with humans closely.
 
+## Relateed articles
+
+- [The Path from LLMs to the Knowledge-Centric Industry](https://www.linkedin.com/posts/kaihuchen_the-path-from-llms-to-the-knowledge-centric-activity-7304518124882579456-bWGc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHN2vgBBuFwWduk6vy4GHJTEpTEPOtSKe0)
+- [The Knowledge Acquisition Bottleneck in the GenAI Era](https://www.linkedin.com/posts/kaihuchen_the-knowledge-acquisition-bottleneck-in-activity-7309754261846831104-OGbS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHN2vgBBuFwWduk6vy4GHJTEpTEPOtSKe0)
+- [Improving the Knowledge Bottleneck in GenAI Applications with i3-learning](https://www.linkedin.com/posts/kaihuchen_improving-the-knowledge-bottleneck-in-genai-activity-7311920515034546176-3mXa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHN2vgBBuFwWduk6vy4GHJTEpTEPOtSKe0)
+
    
